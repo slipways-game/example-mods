@@ -6,6 +6,7 @@ contents = [
     # files from core are easier to specify with absolute paths starting with "/"
     "/modes/campaign-diaspora/campaign-menu.py",
     "/modes/campaign-diaspora/campaigns.py",
+    "/modes/campaign-diaspora/campaign-storage.py",
     "/modes/standard/mapgen.py",
     # this file specifies all the contents for our campaign
     "contents.py"

@@ -7,6 +7,7 @@ contents = [
     "/modes/standard/setup.py",
     # generic support for campaigns
     "/modes/campaign-diaspora/campaigns.py", 
+    "/modes/campaign-diaspora/campaign-storage.py",
     "/modes/campaign-diaspora/campaign-scenario-base.xls",
     # the contents of our campaign
     "contents.py",
